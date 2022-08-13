@@ -1,0 +1,5 @@
+This file contains documentation for the authentication approach used in the application.
+
+Signup : 
+    I've used Google, Facebook, Phone Number and Email/Password Authentication method with Firebase.
+    User 

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403618023088",
+    "project_id": "khabar-fa4ac",
+    "storage_bucket": "khabar-fa4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403618023088:android:3c310be901a287803d9d75",
+        "android_client_info": {
+          "package_name": "kalpesh.project.khabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403618023088-uoaf81vt68roiv80ktp2q925soolgdph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kalpesh.project.khabar",
+            "certificate_hash": "c364dc3208e15310ae890d7585f36d7431c6b192"
+          }
+        },
+        {
+          "client_id": "403618023088-2g7n32s8sbb4d3i95v09jnvssnusia7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB418wrIZpL2a981lcLR7-68Vt7BvlOum4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403618023088-2g7n32s8sbb4d3i95v09jnvssnusia7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
